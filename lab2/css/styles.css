@@ -60,7 +60,7 @@ a {
 /* Style rules for navigation area */
 
 nav {
-  background-color: color: #000000;
+  background-color: #000000;
 }
 
 nav ul {
@@ -219,7 +219,7 @@ nav li a:hover {
 /* Desktop Viewport: Style rules for main content */
 #info ul {
   margin-left: 5%;
-}
+  }
 
 }
 
@@ -227,7 +227,7 @@ nav li a:hover {
 
 @media screen and (min-width: 1921px) , print {
   body {
-    background: linear-gradient( #f6eee4 #78593a)
+    background: linear-gradient( #f6eee4 #78593a);
   }
 
   #wrapper {
